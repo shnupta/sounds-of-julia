@@ -25,10 +25,10 @@ export default function Soundboard() {
     ];
 
     const images = [
-        svgJulia1,
         svgJulia2,
-        svgJulia3,
+        svgJulia1,
         svgJulia4,
+        svgJulia3,
         svgJulia5,
     ];
 
