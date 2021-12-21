@@ -1,9 +1,14 @@
 {
   "files": {
-    "main.css": "/sounds-of-julia/static/css/main.a1228c65.css",
-    "main.js": "/sounds-of-julia/static/js/main.66f6c863.js",
+    "main.css": "/sounds-of-julia/static/css/main.0a7e84ac.css",
+    "main.js": "/sounds-of-julia/static/js/main.37c6f0b8.js",
     "static/js/845.b77bf2a5.chunk.js": "/sounds-of-julia/static/js/845.b77bf2a5.chunk.js",
     "static/js/787.b39e0f3a.chunk.js": "/sounds-of-julia/static/js/787.b39e0f3a.chunk.js",
+    "static/media/julia2.svg": "/sounds-of-julia/static/media/julia2.6c732020a7ac06ee83d9186aef40073d.svg",
+    "static/media/julia3.svg": "/sounds-of-julia/static/media/julia3.b3ab8c2c95913f768cfd57b42c8987ee.svg",
+    "static/media/julia4.svg": "/sounds-of-julia/static/media/julia4.6a7141f71c25bf33bd7d1c3e2795c8b6.svg",
+    "static/media/julia1.svg": "/sounds-of-julia/static/media/julia1.604682f5f90ea0b32c16e495edcc5505.svg",
+    "static/media/julia5.svg": "/sounds-of-julia/static/media/julia5.59db98b5a3f3e71e6f951db5023c8b1a.svg",
     "static/media/roboto-all-500-normal.woff": "/sounds-of-julia/static/media/roboto-all-500-normal.52cb737b682eb9661ee1.woff",
     "static/media/roboto-all-700-normal.woff": "/sounds-of-julia/static/media/roboto-all-700-normal.ef6d1d09b20b877fee4e.woff",
     "static/media/roboto-all-400-normal.woff": "/sounds-of-julia/static/media/roboto-all-400-normal.376ea5d93f71583052f6.woff",
@@ -42,13 +47,13 @@
     "static/media/roboto-greek-ext-300-normal.woff2": "/sounds-of-julia/static/media/roboto-greek-ext-300-normal.04e05839d6a35e046c13.woff2",
     "static/media/roboto-greek-ext-700-normal.woff2": "/sounds-of-julia/static/media/roboto-greek-ext-700-normal.9674bc0ae12c2551d9d1.woff2",
     "index.html": "/sounds-of-julia/index.html",
-    "main.a1228c65.css.map": "/sounds-of-julia/static/css/main.a1228c65.css.map",
-    "main.66f6c863.js.map": "/sounds-of-julia/static/js/main.66f6c863.js.map",
+    "main.0a7e84ac.css.map": "/sounds-of-julia/static/css/main.0a7e84ac.css.map",
+    "main.37c6f0b8.js.map": "/sounds-of-julia/static/js/main.37c6f0b8.js.map",
     "845.b77bf2a5.chunk.js.map": "/sounds-of-julia/static/js/845.b77bf2a5.chunk.js.map",
     "787.b39e0f3a.chunk.js.map": "/sounds-of-julia/static/js/787.b39e0f3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1228c65.css",
-    "static/js/main.66f6c863.js"
+    "static/css/main.0a7e84ac.css",
+    "static/js/main.37c6f0b8.js"
   ]
 }
