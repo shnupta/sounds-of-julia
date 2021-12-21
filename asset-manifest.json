@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sounds-of-julia/static/css/main.0a7e84ac.css",
-    "main.js": "/sounds-of-julia/static/js/main.37c6f0b8.js",
+    "main.js": "/sounds-of-julia/static/js/main.ecb0aa8b.js",
     "static/js/845.b77bf2a5.chunk.js": "/sounds-of-julia/static/js/845.b77bf2a5.chunk.js",
     "static/js/787.b39e0f3a.chunk.js": "/sounds-of-julia/static/js/787.b39e0f3a.chunk.js",
     "static/media/julia2.svg": "/sounds-of-julia/static/media/julia2.6c732020a7ac06ee83d9186aef40073d.svg",
@@ -48,12 +48,12 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/sounds-of-julia/static/media/roboto-greek-ext-700-normal.9674bc0ae12c2551d9d1.woff2",
     "index.html": "/sounds-of-julia/index.html",
     "main.0a7e84ac.css.map": "/sounds-of-julia/static/css/main.0a7e84ac.css.map",
-    "main.37c6f0b8.js.map": "/sounds-of-julia/static/js/main.37c6f0b8.js.map",
+    "main.ecb0aa8b.js.map": "/sounds-of-julia/static/js/main.ecb0aa8b.js.map",
     "845.b77bf2a5.chunk.js.map": "/sounds-of-julia/static/js/845.b77bf2a5.chunk.js.map",
     "787.b39e0f3a.chunk.js.map": "/sounds-of-julia/static/js/787.b39e0f3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a7e84ac.css",
-    "static/js/main.37c6f0b8.js"
+    "static/js/main.ecb0aa8b.js"
   ]
 }
