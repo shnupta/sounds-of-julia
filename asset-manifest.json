@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sounds-of-julia/static/css/main.a1228c65.css",
-    "main.js": "/sounds-of-julia/static/js/main.3d37f5fa.js",
+    "main.js": "/sounds-of-julia/static/js/main.66f6c863.js",
     "static/js/845.b77bf2a5.chunk.js": "/sounds-of-julia/static/js/845.b77bf2a5.chunk.js",
     "static/js/787.b39e0f3a.chunk.js": "/sounds-of-julia/static/js/787.b39e0f3a.chunk.js",
     "static/media/roboto-all-500-normal.woff": "/sounds-of-julia/static/media/roboto-all-500-normal.52cb737b682eb9661ee1.woff",
@@ -26,6 +26,7 @@
     "static/media/hellooo.mp4": "/sounds-of-julia/static/media/hellooo.12e068192482b908f8fe.mp4",
     "static/media/roboto-cyrillic-700-normal.woff2": "/sounds-of-julia/static/media/roboto-cyrillic-700-normal.0334efc0de1012200889.woff2",
     "static/media/roboto-cyrillic-300-normal.woff2": "/sounds-of-julia/static/media/roboto-cyrillic-300-normal.48e4b37ecbc5e155460e.woff2",
+    "static/media/mmn-mm.mp4": "/sounds-of-julia/static/media/mmn-mm.aea72b1cf7555fb140eb.mp4",
     "static/media/wuaaa.mp4": "/sounds-of-julia/static/media/wuaaa.cd4a3cf6ece32f111e31.mp4",
     "static/media/roboto-greek-300-normal.woff2": "/sounds-of-julia/static/media/roboto-greek-300-normal.7c6b44c55d4d9661e3ed.woff2",
     "static/media/roboto-greek-400-normal.woff2": "/sounds-of-julia/static/media/roboto-greek-400-normal.1cbfc636c911faa4d0ca.woff2",
@@ -42,12 +43,12 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/sounds-of-julia/static/media/roboto-greek-ext-700-normal.9674bc0ae12c2551d9d1.woff2",
     "index.html": "/sounds-of-julia/index.html",
     "main.a1228c65.css.map": "/sounds-of-julia/static/css/main.a1228c65.css.map",
-    "main.3d37f5fa.js.map": "/sounds-of-julia/static/js/main.3d37f5fa.js.map",
+    "main.66f6c863.js.map": "/sounds-of-julia/static/js/main.66f6c863.js.map",
     "845.b77bf2a5.chunk.js.map": "/sounds-of-julia/static/js/845.b77bf2a5.chunk.js.map",
     "787.b39e0f3a.chunk.js.map": "/sounds-of-julia/static/js/787.b39e0f3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1228c65.css",
-    "static/js/main.3d37f5fa.js"
+    "static/js/main.66f6c863.js"
   ]
 }
