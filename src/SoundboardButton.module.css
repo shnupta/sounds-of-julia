@@ -1,9 +1,18 @@
-.SoundboardButton {
-    width: 100px;
-    height: 100px;
-    background-color: #C70039;
+.SoundboardContent {
+    height: 100%;
+    max-width: 100%;
+    display: grid;
 }
 
-.SoundboardButton h3 {
-    color: #fff;
+.SoundboardImageContainer {
+    height: 100%;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.SoundboardImage {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-width: 90%;
+    max-height: 90%;
 }

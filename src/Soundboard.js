@@ -9,6 +9,12 @@ import soundHellooo from "./sounds/hellooo.mp4";
 import soundWuaaa from "./sounds/wuaaa.mp4";
 import soundMmnMm from "./sounds/mmn-mm.mp4"
 
+import svgJulia1 from "./svg/julia1.svg";
+import svgJulia2 from "./svg/julia2.svg";
+import svgJulia3 from "./svg/julia3.svg";
+import svgJulia4 from "./svg/julia4.svg";
+import svgJulia5 from "./svg/julia5.svg";
+
 export default function Soundboard() {
     const sounds = [
         {id: 0, sound: soundPewPewPew, name: "Pew Pew Pew"},
@@ -18,6 +24,14 @@ export default function Soundboard() {
         {id: 4, sound: soundMmnMm, name: "Mmn Mm" },
     ];
 
+    const images = [
+        svgJulia1,
+        svgJulia2,
+        svgJulia3,
+        svgJulia4,
+        svgJulia5,
+    ];
+
     const colors = ["#b71c1c", "#8e24aa", "#388e3c", "#fbc02d", "#03a9f4"];
 
     return (
@@ -25,7 +39,7 @@ export default function Soundboard() {
             <Grid container spacing={{ xs: 2, md: 3 }} columns={{ xs: 4, sm: 8, md: 12 }}>
                 {sounds.map(sound => ( 
                     <Grid item xs={2} sm={4} md={4} key={sound.id}>
-                        <SoundboardButton sound={sound} color={colors[sound.id]} />
+                        <SoundboardButton sound={sound} image={images[sound.id]} color={colors[sound.id]} />
                     </Grid>
                 ))}
             </Grid>
